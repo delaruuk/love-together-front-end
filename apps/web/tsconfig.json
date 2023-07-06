@@ -1,0 +1,10 @@
+{
+  "extends": "tsconfig/nextjs.json",
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"],
+  // Ezra added below for GPT top level 'await' support
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es2017"
+  }
+}

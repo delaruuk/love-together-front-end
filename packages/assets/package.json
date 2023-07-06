@@ -1,0 +1,25 @@
+{
+  "name": "assets",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "google.svg",
+    "apple.svg",
+    "logo.svg",
+    "finished.svg",
+    "unfinished.svg",
+    "loading.svg",
+    "puzzle.svg",
+    "logout.svg",
+    "instagram.svg",
+    "linkedin.svg",
+    "tiktok.svg",
+    "youtube.svg",
+    "facebook.svg",
+    "clock.svg",
+    "training.svg",
+    "cog.svg",
+    "text-logo.svg",
+    "pencil.svg"
+  ]
+}
